@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-autolink",
   "description": "{{autolink}} handlebars helper. Generate relative links from the \"current page\" to other dest pages.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/helpers/handlebars-helper-autolink",
   "author": {
     "name": "Jon Schlinkert",
@@ -26,14 +26,7 @@
   },
   "keywords": [
     "assemble",
-    "gh button",
-    "gh buttons",
-    "gh-button",
     "autolink",
-    "autolink",
-    "github buttons",
-    "github",
-    "github-buttons",
     "handlebars helper",
     "handlebars",
     "helper"
